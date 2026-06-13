@@ -1,0 +1,3 @@
+# Tasky Roadmap
+
+Here we have a roadmap of a Tasky project, following the [Roadmap Concept](../roadmap-concept/README.md), described in the current repository. Since, the project is currently developed in a "when I have an inspiration" manner neither `milesone` not `iteration` folders are not guaranteed to be present, matching the [flexibility principle](../roadmap-concept/README.md#universality) of the concept.
